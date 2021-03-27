@@ -1,0 +1,7 @@
+20:01:09.318 [AsyncHttpClient-3-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+20:01:09.321 [AsyncHttpClient-3-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.linkCapacity: 16
+20:01:09.321 [AsyncHttpClient-3-1] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+20:01:14.811 [main] INFO  pack1.First - printed
+20:01:14.811 [main] ERROR pack1.First - error occurred
+20:01:14.812 [main] ERROR pack1.First - cool
+20:01:14.812 [main] ERROR pack1.First - yess
