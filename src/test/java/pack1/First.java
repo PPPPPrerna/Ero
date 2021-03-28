@@ -40,6 +40,9 @@ public class First {
 		
 		driver = new FirefoxDriver();
 		
+		System.out.println("No u r wrong");
+		
+		
 		 //driver = new ChromeDriver();
 		
 		driver.manage().timeouts().implicitlyWait(2000000, TimeUnit.SECONDS);
