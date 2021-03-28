@@ -24,7 +24,9 @@ public class First {
 	
 	public void m1() {
 		
+		System.out.println("Yes you are correct");
 		
+		System.out.println("No u are wrong");
 		
 		Logger logg = LogManager.getLogger(First.class.getName());
 		
