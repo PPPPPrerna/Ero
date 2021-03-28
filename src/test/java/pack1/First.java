@@ -32,6 +32,8 @@ public class First {
 		
 		System.setProperty("webdriver.gecko.driver", System.getProperty("user.dir")+"//geckodriver.exe");
 		
+		System.out.println("Yes");
+		
 		
 		
 		driver = new FirefoxDriver();
